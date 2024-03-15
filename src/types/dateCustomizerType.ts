@@ -1,0 +1,1 @@
+export type dateCustomizerType = (date: string) => {date: string};

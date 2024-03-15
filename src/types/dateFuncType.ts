@@ -1,0 +1,1 @@
+export type dateFuncType = ({ date }: { date: string }) => JSX.Element;
